@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">examapp</string>
+
+    <string name="thirdFragment">Третий фрагмент</string>
+    <string name="returnToSecondFragmentButton">Второй врагмент</string>
+    <string name="returnToFirstFragmentButton">Первый фрагмент</string>
+    <string name="firstFragment">Первый фрагмент</string>
+    <string name="backToFirstFragment">Первый фрагмент</string>
+    <string name="goToThirdFragment">Третий фрагмент</string>
+    <string name="secondFragment">Второй фрагмент</string>
+    <string name="yellow_box">Yellow Box</string>
+    <string name="generated_number">Generated number: %1$d</string>
+    <string name="generate_number">Generate number</string>
+    <string name="rootMenuButton">Главное меню</string>
+    <string name="DbButton">База данных</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sampleText">Ресайклер))</string>
+    <string name="recycleButton">Ресайклер</string>
+    <string name="callButton">Звонок</string>
+</resources>

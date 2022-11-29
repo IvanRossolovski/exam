@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:background="#bfe"
+    tools:context="com.example.MyHomework4.SecondFragment">
+
+    <TextView
+        android:id="@+id/valueTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="@string/secondFragment"/>
+
+    <Button
+        android:id="@+id/returnToFirstFragmentButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/backToFirstFragment"/>
+
+    <Button
+        android:id="@+id/thirdFragmentButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/goToThirdFragment"/>
+
+
+</LinearLayout>
